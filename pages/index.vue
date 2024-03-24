@@ -1,0 +1,3 @@
+<template>
+  <NuxtSample></NuxtSample>
+</template>
